@@ -30,6 +30,10 @@ public class MainActivity extends Activity {
 	
 	
 	
+	
+	
+	
+	
 Start.setOnClickListener(new OnClickListener() {
 		
 		@Override
